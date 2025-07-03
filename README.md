@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Nimit's GitHub stats](https://github-readme-stats.vercel.app/api?username=timin&include_all_commits=true&hide=stars&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+[!Nimit's GitHub Stats](/api/card-with-avatar?username=timin&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=13)
+
